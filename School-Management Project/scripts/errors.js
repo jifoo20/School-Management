@@ -2,7 +2,7 @@
 
 * @author admin
 
-*/
+*/xxxxxxxxxxxxxxxx
 
 __myNameSpace.ERRORS = {
 	'login' : {
