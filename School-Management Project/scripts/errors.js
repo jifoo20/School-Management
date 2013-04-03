@@ -1,8 +1,8 @@
 /**
 
-* @author admin
+* @author admin No things
 
-*/xxxxxxxxxxxxxxxx
+*/
 
 __myNameSpace.ERRORS = {
 	'login' : {
